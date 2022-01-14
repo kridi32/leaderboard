@@ -34,6 +34,7 @@ nav.container-top{
     justify-content: space-between;
     background-color: #ffffff00;
     color: white;
+    width: 910px;
 }
 .logo{
     display: flex;
